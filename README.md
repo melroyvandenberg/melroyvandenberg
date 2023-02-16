@@ -8,6 +8,8 @@
 [![My Dot files](https://img.shields.io/badge/Dot%20Files-green?style=for-the-badge&logo=Linux&logoColor=white)](https://gitlab.melroy.org/melroy/dotfiles)
 [![Sourcehut](https://img.shields.io/badge/Sourcehut-gray?style=for-the-badge&logo=circle&logoColor=white)](https://sr.ht/~melroy/)
 
+* [My homepage](https://melroy.org)
+
 ### ❤️ Sponsor me:
 
 * [GitHub Sponsors](https://github.com/sponsors/danger89)
