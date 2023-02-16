@@ -15,6 +15,5 @@
 
 ### 📫 Chat:
 
-[![MS Teams](https://img.shields.io/badge/Teams-464EB8?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=melroy.van.den.berg@asml.com)
 [![Matrix](https://img.shields.io/badge/Matrix-0dbd8b?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@melroy:melroy.org)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melroyvandenberg)
