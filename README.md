@@ -1,7 +1,7 @@
 ### Melroy van den Berg here 👋
 
-> **Note**
-> My actual personal GitHub account is: [melroy89](https://github.com/melroy89).
+> [!IMPORTANT] 
+> My actual personal GitHub account is: [melroy89](https://github.com/melroy89). This is just my work account.
 
 [![My GitLab Server!](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.melroy.org/melroy)
 [![Melroy's Blog](https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=hugo&logoColor=white)](https://blog.melroy.org)
