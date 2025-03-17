@@ -1,5 +1,7 @@
 ### Melroy van den Berg here 👋
 
+I'm part of the SCM Team within ASML, responsible the GitHub platforms (on-prem & cloud), BitBucket instances, JFrog Artifactory, JFrog  Xray and more.
+
 > [!IMPORTANT] 
 > My actual personal GitHub account is: [melroy89](https://github.com/melroy89). This is just my work account.
 
